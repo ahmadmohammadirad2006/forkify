@@ -1,7 +1,7 @@
 import icons from 'url:../../img/icons.svg';
 import { Fraction } from 'fractional';
 
-class recipeView {
+class RecipeView {
   #parentElement = document.querySelector('.recipe');
   #data;
   #errorMessage = "We couldn't find that recipe. Please try anohter one!";
@@ -171,4 +171,4 @@ class recipeView {
   }
 }
 
-export default new recipeView();
+export default new RecipeView();
