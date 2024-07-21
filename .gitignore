@@ -1,5 +1,4 @@
 # Ignore these folders
-dist/
 node_modules/
 .parcel-cache/
 
