@@ -16,6 +16,9 @@ Forkify is a web application that allows users to search for recipes, view detai
 - HTML
 - SASS
 
+## Screenshot
+![Forkify Screenshot](screenshot.png)
+
 ## Installation
 
 To get started with the Forkify project, follow these steps:
